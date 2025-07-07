@@ -18,7 +18,7 @@ This project is actively being developed. Features and UI are subject to change 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>f
+   git clone <your-repo-url>
    cd czone
    ```
 2. **Install dependencies:**
