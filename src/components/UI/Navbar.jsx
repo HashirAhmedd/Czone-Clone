@@ -55,7 +55,7 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="bg-[#0c4978] sticky top-0">
+    <nav className="bg-[#0c4978] sticky top-0 z-50">
       <div className="hidden  min-h-9 bg-[#064f88] lg:flex items-center">
         <div className="container mx-auto flex justify-between">
           <div className="section-1 text-white">
